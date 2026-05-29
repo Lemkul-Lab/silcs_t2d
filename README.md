@@ -13,3 +13,9 @@ force field files for selected lead compounds for the following enzymes:
 
 All coordinates, topologies, and force field files are provided for the CHARMM
 additive and Drude polarizable force fields.
+
+Contributors
+------------
+
+Esmat Mohammadi (esmat@vt.edu)
+Justin Lemkul (jalemkul@vt.edu)
